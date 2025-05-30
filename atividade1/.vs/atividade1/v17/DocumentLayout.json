@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\atividade2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:atividade2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\atividade1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:atividade1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CE222B-168F-4801-B56A-5D445E2F1064}|atividade1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "calculadora.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\calculadora.cs",
               "RelativeToolTip": "calculadora.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwCIAAAAFAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwDsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T12:47:27.204Z",
               "EditorCaption": ""
@@ -62,11 +62,12 @@
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\calculadora.cs [Projeto]",
               "RelativeToolTip": "calculadora.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:42:26.317Z"
+              "WhenOpened": "2025-05-30T12:42:26.317Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "atividade1",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\atividade1.csproj",
               "RelativeDocumentMoniker": "atividade1.csproj",
@@ -78,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "atividade2.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\atividade2.cs",
               "RelativeDocumentMoniker": "atividade2.cs",
@@ -90,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "atividade2.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\atividade2.cs",
               "RelativeDocumentMoniker": "atividade2.cs",
@@ -101,26 +102,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:29:36.723Z"
+              "WhenOpened": "2025-05-30T11:29:36.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\atividade_individual\\atividade1\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:26:31.02Z"
+              "WhenOpened": "2025-05-30T11:26:31.02Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }

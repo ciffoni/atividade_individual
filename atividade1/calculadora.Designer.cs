@@ -35,6 +35,8 @@
             divisao = new Button();
             multiplicacao = new Button();
             resultado = new Label();
+            button1 = new Button();
+            lblcontar = new Label();
             SuspendLayout();
             // 
             // valor1
@@ -78,6 +80,7 @@
             divisao.TabIndex = 4;
             divisao.Text = "divisão";
             divisao.UseVisualStyleBackColor = true;
+            divisao.Click += divisao_Click;
             // 
             // multiplicacao
             // 
@@ -97,11 +100,32 @@
             resultado.TabIndex = 6;
             resultado.Text = "label1";
             // 
+            // button1
+            // 
+            button1.Location = new Point(542, 162);
+            button1.Name = "button1";
+            button1.Size = new Size(94, 29);
+            button1.TabIndex = 7;
+            button1.Text = "click";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // lblcontar
+            // 
+            lblcontar.AutoSize = true;
+            lblcontar.Location = new Point(548, 263);
+            lblcontar.Name = "lblcontar";
+            lblcontar.Size = new Size(50, 20);
+            lblcontar.TabIndex = 8;
+            lblcontar.Text = "label1";
+            // 
             // calculadora
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(lblcontar);
+            Controls.Add(button1);
             Controls.Add(resultado);
             Controls.Add(multiplicacao);
             Controls.Add(divisao);
@@ -124,5 +148,7 @@
         private Button divisao;
         private Button multiplicacao;
         private Label resultado;
+        private Button button1;
+        private Label lblcontar;
     }
 }
