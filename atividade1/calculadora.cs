@@ -38,8 +38,8 @@ namespace atividade1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            contador++; //cada click conta 1
-            lblcontar.Text = contador.ToString();
+            atividade4 at = new atividade4();
+            at.Show();
         }
 
         private void divisao_Click(object sender, EventArgs e)
