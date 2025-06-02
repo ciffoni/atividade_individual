@@ -33,7 +33,9 @@
             cpf = new TextBox();
             errorProvider1 = new ErrorProvider(components);
             label1 = new Label();
+            errorProvider2 = new ErrorProvider(components);
             ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)errorProvider2).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -44,6 +46,7 @@
             button1.TabIndex = 0;
             button1.Text = "button1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // cpf
             // 
@@ -51,6 +54,7 @@
             cpf.Name = "cpf";
             cpf.Size = new Size(214, 27);
             cpf.TabIndex = 1;
+            cpf.TextChanged += cpf_TextChanged;
             cpf.Leave += cpf_Leave;
             // 
             // errorProvider1
@@ -66,6 +70,10 @@
             label1.TabIndex = 2;
             label1.Text = "digite seu CPF:";
             // 
+            // errorProvider2
+            // 
+            errorProvider2.ContainerControl = this;
+            // 
             // atividade7
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -78,6 +86,7 @@
             Text = "atividade7";
             Load += atividade7_Load;
             ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)errorProvider2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -88,5 +97,6 @@
         private TextBox cpf;
         private ErrorProvider errorProvider1;
         private Label label1;
+        private ErrorProvider errorProvider2;
     }
 }
