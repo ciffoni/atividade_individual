@@ -30,7 +30,7 @@
         {
             pictureBox1 = new PictureBox();
             btnCadastrr = new Button();
-            button2 = new Button();
+            remover = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -52,21 +52,22 @@
             btnCadastrr.UseVisualStyleBackColor = true;
             btnCadastrr.Click += btnCadastrr_Click;
             // 
-            // button2
+            // remover
             // 
-            button2.Location = new Point(315, 39);
-            button2.Name = "button2";
-            button2.Size = new Size(94, 29);
-            button2.TabIndex = 2;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
+            remover.Location = new Point(315, 39);
+            remover.Name = "remover";
+            remover.Size = new Size(94, 29);
+            remover.TabIndex = 2;
+            remover.Text = "remover";
+            remover.UseVisualStyleBackColor = true;
+            remover.Click += remover_Click;
             // 
             // foto
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button2);
+            Controls.Add(remover);
             Controls.Add(btnCadastrr);
             Controls.Add(pictureBox1);
             Name = "foto";
@@ -79,6 +80,6 @@
 
         private PictureBox pictureBox1;
         private Button btnCadastrr;
-        private Button button2;
+        private Button remover;
     }
 }

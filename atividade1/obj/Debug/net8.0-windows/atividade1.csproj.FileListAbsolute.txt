@@ -23,3 +23,10 @@ C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0
 C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade5.resources
 C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.FrmMenu.resources
 C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade6.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.foto.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade9.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade10.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.filho1.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.filho2.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade11.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade12.resources

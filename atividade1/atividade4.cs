@@ -31,5 +31,11 @@ namespace atividade1
         {
             label1.Text = "0";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            atividade5 atividade5 = new atividade5();
+            atividade5.ShowDialog();
+        }
     }
 }
