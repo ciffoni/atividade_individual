@@ -60,5 +60,11 @@ namespace atividade1
             atividade12 at12 = new atividade12();
             at12.ShowDialog();
         }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            atividade13 at13 = new atividade13();
+            at13.ShowDialog();
+        }
     }
 }

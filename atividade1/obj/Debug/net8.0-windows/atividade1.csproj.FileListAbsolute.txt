@@ -30,3 +30,4 @@ C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0
 C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.filho2.resources
 C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade11.resources
 C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade12.resources
+C:\Users\Aluno\Documents\GitHub\atividade_individual\atividade1\obj\Debug\net8.0-windows\atividade1.atividade13.resources
